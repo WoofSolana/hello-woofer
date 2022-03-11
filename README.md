@@ -1,4 +1,4 @@
-### Hello WOOFer !
+## Hello WOOFer !
 
 ## Welcome to the WOOF DAO github organization. 
 
