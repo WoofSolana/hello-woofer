@@ -59,5 +59,5 @@ Top Secret yet.
 
 
 
-We welcome everyone to actively participate to this DAO. 
-For the coming Development SubDAO (next to others), certain requirements will have to be fulfilled. 
+# We welcome everyone to actively participate to this DAO. 
+# For the coming Development SubDAO (next to others), certain requirements will have to be fulfilled. 
