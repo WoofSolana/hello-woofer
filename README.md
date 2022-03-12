@@ -71,6 +71,6 @@ We saw this approach in other DAOs and think this is the right direction to head
 Plans are to get a Vue.js scaffold going, using Tailwind
 
 
-We welcome everyone to actively participate to this DAO. 
+# We welcome everyone to actively participate to this DAO. 
 For the coming Development SubDAO (next to others), certain requirements will have to be fulfilled. 
 For more information join our [discord](https://discord.gg/woofsolana)
