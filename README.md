@@ -8,7 +8,7 @@ A Decentralized Community Coin Building the Web 3.0 Future.
 
 ## What is this about?
 
-WOOF is aiming to be the first fully decentralized Social/Memecoin on Solana, connecting the ecosystem and bringing our part to the open source, web3 community. 
+WOOF is aiming to be the first fully decentralized Social- / Memecoin on Solana, connecting the ecosystem and bringing our part to the open source, web3 community. 
 
 We are planning to make all our developments public and also open up and form teams working on different projects.
 
@@ -44,7 +44,7 @@ From our point of view there is a common flaw in how we currently do escrow exch
 
 ### WOOF Project 1
 
-There are plans for a new product we didnt see anywhere else before so war. A mix of fun but also with a reason for existance. More to come!
+There are plans for a new product we didn't see anywhere else before so war. A mix of fun but also with a reason for existence. More to come!
 
 ### WOOF STAKING
 
@@ -56,7 +56,19 @@ If it passes, all repos will be made public ultimately as well.
 Top Secret yet.
 
 
+### WOOF WEBSITE
 
+We love our current [WOOF Website](https://woofsolana.io), thats for sure. 
+However we used a website builder for this as we thought it would be easier for the WOOF Academy to be managed. This turned out to be wrong and also we see another very big point which has made us rethink the current approach. 
+
+The decentralization. 
+
+The current approach of our website is not decentralized but this DAO is all about becoming fully decentralized ultimately. 
+
+So we decided to go back to the roots and code the website again and put it up on github, for everyone to see, edit and improve. 
+We saw this approach in other DAOs and think this is the right direction to head for the future of WOOF. 
+
+Plans are to get a Vue.js scaffold going, using Tailwind
 
 
 # We welcome everyone to actively participate to this DAO. 
