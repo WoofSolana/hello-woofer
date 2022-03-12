@@ -61,3 +61,4 @@ Top Secret yet.
 
 # We welcome everyone to actively participate to this DAO. 
 # For the coming Development SubDAO (next to others), certain requirements will have to be fulfilled. 
+For more information join our [discord](https://discord.gg/woofsolana)
