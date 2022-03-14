@@ -68,7 +68,7 @@ The current approach of our website is not decentralized but this DAO is all abo
 So we decided to go back to the roots and code the website again and put it up on github, for everyone to see, edit and improve. 
 We saw this approach in other DAOs and think this is the right direction to head for the future of WOOF. 
 
-Plans are to get a Vue.js scaffold going, using Tailwind
+Plans are to get a Vue.js scaffold going, using TailwindCSS (DaisyUI)
 
 
 # We welcome everyone to actively participate to this DAO. 
