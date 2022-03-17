@@ -51,9 +51,11 @@ There are plans for a new product we didn't see anywhere else before so war. A m
 The proposal for a vote in that regards is being put together for the DAO. 
 If it passes, all repos will be made public ultimately as well.
 
+> WOOFers staking is currently under development and will be launched and made public soon. 
+
 ### WOOF Project 2
 
-Top Secret yet.
+Top Secret yet but needs funding.
 
 
 ### WOOF WEBSITE
