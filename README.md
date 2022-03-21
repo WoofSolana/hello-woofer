@@ -76,6 +76,8 @@ Plans are to get a Vue.js scaffold going, using TailwindCSS (DaisyUI)
 
 In plans.
 
+> https://github.com/WoofSolana/woof-dao-dashboard
+
 ### WOOFers Rarity
 
 Basic rarity table to check on your rarity. To be upgraded in the future and nice features added (rarity playground).
