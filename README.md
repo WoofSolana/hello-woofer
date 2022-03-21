@@ -76,6 +76,12 @@ Plans are to get a Vue.js scaffold going, using TailwindCSS (DaisyUI)
 
 In plans.
 
+### WOOFers Rarity
+
+Basic rarity table to check on your rarity. To be upgraded in the future and nice features added (rarity playground).
+
+> https://github.com/WoofSolana/woofers
+
 ### WOOF NFT Marketplace 
 
 How about a WOOFers only Marketplace - only buyable with WOOF ?
