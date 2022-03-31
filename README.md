@@ -22,6 +22,7 @@ If you want to contribute to WOOF you can just send a PR Pull Request and also y
 Our [WOOF DEX](https://dex.woofsolana.io) at current point is a Serum/Raydium clone with a personalized style changes and a fee collection for the WOOF DAO Treasury. 
 
 > The repository is public [here](https://github.com/WoofSolana/woof-dex)  - if you want to play with it and/or improve it, send us a pull request with the updates for us to check, we are happy to see your skills! :)
+> https://github.com/WoofSolana/woof-dex
 
 
 ### WOOF SWAP Aggregator
