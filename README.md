@@ -35,7 +35,7 @@ A token account has to exists to be able to collect fees on that specific tokens
 
 > The repository will be set public soon!
 
-### WOOF ESCROW
+### __WOOF ESCROW__
 
 We are currently building a p2p escrow for NFTs and SPL tokens. 
 From our point of view there is a common flaw in how we currently do escrow exchanges and think there can be something done nicer in experience. 
