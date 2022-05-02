@@ -58,11 +58,6 @@ If it passes, all repos will be made public ultimately as well.
 
 Top Secret yet but needs funding.
 
-### WOOF Market
-
-
-
-
 ### WOOF WEBSITE
 
 We love our current [WOOF Website](https://woofsolana.io), thats for sure. 
