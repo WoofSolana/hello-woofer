@@ -88,12 +88,12 @@ Basic rarity table to check on your rarity. To be upgraded in the future and nic
 
 Rarity Playground for our WOOFers
 
-> public soon
+> https://github.com/WoofSolana/playground
 
 
 ### WOOF NFT Marketplace 
 
-How about a WOOFers only Marketplace - only buyable with WOOF ?
+How about a WOOFers only Marketplace - only buyable with WOOF 
 > https://github.com/WoofSolana/woofer-market
 
 
